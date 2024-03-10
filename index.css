@@ -1,0 +1,40 @@
+
+body{
+  background-image: url(
+"https://brachot.net/images/category_images/140.jpg"
+  );
+}
+
+#headLine{
+  font-style: oblique;
+  padding-top: 50px;
+  color: #61dafb;
+  font: 130px solid bold;
+}
+#moria{
+  color: gold;
+  font: 250px "Niagara Solid";
+}
+
+#button{
+height: 300px;
+  width: 200px;
+  font-size: 40px;
+  background-image: url("https://distinctpins.com/wp-content/uploads/2022/07/product-image-1593230438.jpg");
+  background-size: cover; /* to cover the entire button with the image */
+}
+#happendsAfter{
+  font-size: 150px;
+padding-top: 185px;
+  font-family: "Rage Italic";
+color: red;
+}
+
+#happendsAfterAfter{
+  font-size: 50px;
+  padding-top: 250px;
+  font-family: "Rage Italic";
+  color: brown;
+}
+
+
